@@ -10,8 +10,8 @@ namespace taskOfRegRu
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Задание компании RegRu");
             Console.ReadLine();
-
         }
     }
 }
