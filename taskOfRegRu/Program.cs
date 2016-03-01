@@ -10,6 +10,7 @@ namespace taskOfRegRu
     {
         static void Main(string[] args)
         {
+            Console.ReadLine();
 
         }
     }
